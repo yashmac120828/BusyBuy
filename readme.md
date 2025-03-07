@@ -57,7 +57,7 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/yashmac120828/BusyBuy.git
 ```
 
 ### Navigate to the project directory
@@ -174,4 +174,4 @@ Once both servers are running, you can access them at the following URL's:
 Don't forget to star the repository and share your feedback!✨
 
 ## Authors
-- [@RishiBakshii](https://github.com/RishiBakshii)
+- [@yashmac120828](https://github.com/yashmac120828)
